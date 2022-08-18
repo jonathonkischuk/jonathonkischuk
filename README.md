@@ -1,4 +1,10 @@
 - 👋 Hi, I’m @jonathonkischuk
+- 👨🏿‍🤝‍👨🏿 Background...
+      I have been learning to code and working on projects for about a year now, 
+      although it wasn't until recently that I realized the importance of github.
+      I have started uploading projects that I made during classes, 
+      as well as a few basic ones that I wrote.
+      
 - 👀 I’m interested in ...
       Software development and web development, as well as 
       data Engineering and Machine Learning & AI with Python,
