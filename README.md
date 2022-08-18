@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jonathonkischuk
 - 👀 I’m interested in ...
-      Software development and web development
-      Data Engineering and Machine Learning & AI with Python
-      and Cybersecurity
+      Software development and web development, as well as 
+      data Engineering and Machine Learning & AI with Python,
+      and Cybersecurity.
 
 - 📚 Past Learning...
       I have earned certifications in Python, HTML, CSS, SQL,
@@ -11,16 +11,16 @@
 
 
 - 🌱 I’m currently learning ...
-      Tableau for visualizations
-      Furthering my Python skills with a 'Complete Data Science and Machine Learning' course
-      Spanish via Duolingo
-      and Basics of Networking
+      Tableau for visualizations and
+      furthering my Python skills with a 'Complete Data Science and Machine Learning' course.
+      On the side I am learning Spanish via Duolingo
+      and Basics of Networking.
 
 
 - 💞️ I’m looking to collaborate on ...
-      Exciting projects
-      Any opportunity to learn something new
-      and Projects where I can meet and/or help out fun and interesting people
+      Exciting projects, or
+      any opportunity to learn something new.
+      Projects where I can meet and/or help out fun and interesting people are perfect too.
 
 
 
