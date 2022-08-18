@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
       Software development and web development
       Data Engineering and Machine Learning & AI with Python
-      Cybersecurity
+      and Cybersecurity
       
 
 
@@ -10,13 +10,13 @@
       Tableau for visualizations
       Furthering my Python skills with a 'Complete Data Science and Machine Learning' course
       Spanish via Duolingo
-      Basics of Networking
+      and Basics of Networking
 
 
 - 💞️ I’m looking to collaborate on ...
       Exciting projects
       Any opportunity to learn something new
-      Projects where I can meet and/or help out fun and interesting people
+      and Projects where I can meet and/or help out fun and interesting people
 
 
 
@@ -24,7 +24,7 @@
       You can email me at jonathonkischuk91@gmail.com
       Please visit me at www.jonathonkischuk.com
       You can also email me at jonathon@jonathonkischuk.com
-            This email is only checked 1-2X weekly
+            although... This email is only checked 1-2X weekly
 
 
 
