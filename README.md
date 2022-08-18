@@ -3,6 +3,10 @@
       Software development and web development
       Data Engineering and Machine Learning & AI with Python
       and Cybersecurity
+
+- 📚 Past Learning...
+      I have earned certifications in Python, HTML, CSS, SQL,
+      JavaScript, PHP, R, and more.
       
 
 
@@ -25,6 +29,7 @@
       Please visit me at www.jonathonkischuk.com
       You can also email me at jonathon@jonathonkischuk.com
             although... This email is only checked 1-2X weekly
+            
 
 
 
