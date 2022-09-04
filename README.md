@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jonathonkischuk
 - 👨🏿‍🤝‍👨🏿 Background...
-      I have been learning to code and working on projects for about a year now, 
-      although it wasn't until recently that I realized the importance of github.
-      I have started uploading projects that I made during classes, 
-      as well as a few basic ones that I wrote.
+      I have a strong background in Python (although I am always learning more).
+      I have been learning a lot with regard to data analysis and machine learning.
+      Recently I have started learning smart contracts with solidity, as well as cyber security.
+      I love learning new things, especially when they can be used to build awesome stuff!
       
 - 👀 I’m interested in ...
       Software development and web development, as well as 
