@@ -33,8 +33,6 @@
 - 📫 How to reach me ...
       You can email me at jonathonkischuk91@gmail.com
       Please visit me at www.jonathonkischuk.com
-      You can also email me at jonathon@jonathonkischuk.com
-            although... This email is only checked 1-2X weekly
             
 
 
