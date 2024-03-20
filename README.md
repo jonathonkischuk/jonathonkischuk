@@ -2,13 +2,16 @@
 - 👨🏿‍🤝‍👨🏿 Background...
       I have a strong background in Python (although I am always learning more).
       I have been learning a lot with regard to data analysis and machine learning.
-      Recently I have started learning smart contracts with solidity, as well as cyber security.
-      I love learning new things, especially when they can be used to build awesome stuff!
+      I have always been fascinated by cyber security, and have even taken classes in ethical hacking for personal knowledge, security, and to further develop my skill sets and understanding of technology.
+      I love learning new things, especially when they can be used to build awesome projects!
       
 - 👀 I’m interested in ...
-      Software development and web development, as well as 
+      Software, mobile, and web development, as well as 
       data Engineering and Machine Learning & AI with Python,
-      and Cybersecurity.
+      as well as Cybersecurity.
+
+- 🧰 Currently working...
+      I have been working as a lead mobile developer and recently launched an app in the App Store.
 
 - 📚 Past Learning...
       I have earned certifications in Python, HTML, CSS, SQL,
