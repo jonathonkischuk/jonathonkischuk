@@ -19,8 +19,7 @@
 - 🌱 I’m currently learning ...
       Tableau for visualizations and
       furthering my Python skills with a 'Complete Data Science and Machine Learning' course.
-      On the side I am learning Spanish via Duolingo
-      and Basics of Networking.
+      On the side I am learning Spanish via Duolingo and many other exciting topics. Most recently I have been learning Computer Vision, other AI skills, and electrical & mechanical engineering.
 
 
 - 💞️ I’m looking to collaborate on ...
