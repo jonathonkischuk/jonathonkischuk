@@ -1,45 +1,33 @@
-- 👋 Hi, I’m @jonathonkischuk
-- 👨🏿‍🤝‍👨🏿 Background...
-      I have a strong background in Python (although I am always learning more).
-      I have been learning a lot with regard to data analysis and machine learning.
-      I have always been fascinated by cyber security, and have even taken classes in ethical hacking for personal knowledge, security, and to further develop my skill sets and understanding of technology.
-      I love learning new things, especially when they can be used to build awesome projects!
-      
-- 👀 I’m interested in ...
-      Software, mobile, and web development, as well as 
-      data Engineering and Machine Learning & AI with Python,
-      as well as Cybersecurity.
+# 👋 Hello, I'm Jonathon Kischuk!
 
-- 🧰 Currently working...
-      I have been working as a lead mobile developer and recently launched an app in the App Store.
+## 👨🏿‍🤝‍👨🏿 About Me
+- 🧑🏽‍💻 **Professionally**, I have a strong background in **Python**, with a growing interest in **Data Analysis** and **Machine Learning**.
+- 🛡️ I'm captivated by **Cyber Security** and have taken classes in ethical hacking to enhance my understanding and capabilities in technology.
+- 🌟 I'm an avid learner, passionate about using new knowledge to build innovative projects.
 
-- 📚 Past Learning...
-      I have earned certifications in Python, HTML, CSS, SQL,
-      JavaScript, PHP, R, and more.
-      
+## 👀 Interests
+- 🌐 **Software, Mobile, and Web Development**
+- 📊 **Data Engineering**, **Machine Learning** & **AI** using Python
+- 🔒 **Cybersecurity**
 
+## 🧰 What I'm Working On
+- 📱 Lead Mobile Developer recently launched an app in the **App Store**.
 
-- 🌱 I’m currently learning ...
-      Tableau for visualizations and
-      furthering my Python skills with a 'Complete Data Science and Machine Learning' course.
-      On the side I am learning Spanish via Duolingo and many other exciting topics. Most recently I have been learning Computer Vision, other AI skills, and electrical & mechanical engineering.
+## 📚 My Education & Learning
+- 🎓 **Certifications**: Python, HTML, CSS, SQL, JavaScript, PHP, R, and more.
+- 📈 Currently enhancing my skills in **Tableau** and continuing my education in **Data Science and Machine Learning**.
+- 🧠 Expanding my knowledge in **Computer Vision**, various **AI technologies**, and **Electrical & Mechanical Engineering**.
+- 🗣️ Also learning **Spanish** on Duolingo!
 
+## 💞️ Looking to Collaborate
+- 🚀 Open to exciting projects that provide opportunities for learning and innovation.
+- 🤝 I enjoy collaborating on projects where I can meet and assist fun and interesting people.
 
-- 💞️ I’m looking to collaborate on ...
-      Exciting projects, or
-      any opportunity to learn something new.
-      Projects where I can meet and/or help out fun and interesting people are perfect too.
+## 📫 How to Reach Me
+- 📧 **Email**: [jonathonkischuk91@gmail.com](mailto:jonathonkischuk91@gmail.com)
+- 🌐 **Website**: [www.jonathonkischuk.com](http://www.jonathonkischuk.com)
 
+---
 
-
-- 📫 How to reach me ...
-      You can email me at jonathonkischuk91@gmail.com
-      Please visit me at www.jonathonkischuk.com
-            
-
-
-
-<!---
-jonathonkischuk/jonathonkischuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-JonathonKischuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathonkischuk/)](https://www.linkedin.com/in/jonathonkischuk/)
