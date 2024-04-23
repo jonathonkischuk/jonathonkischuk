@@ -14,8 +14,8 @@
 - 📱 Lead Mobile Developer recently launched an app in the **App Store**.
 
 ## 📚 My Education & Learning
-- 🎓 **Certifications**: Python, HTML, CSS, SQL, JavaScript, PHP, R, and more.
-- 📈 Currently enhancing my skills in **Tableau** and continuing my education in **Data Science and Machine Learning**.
+- 🎓 **Certifications**: Python, HTML, CSS, SQL, JavaScript, PHP, R, AI A-Z, Blockchain A-Z, AI Computer Vision, AI NLP, Machine Learning Mathematics, and more.
+- 📈 Currently enhancing my skills in **Tableau** and continuing my education in **Data Science and Machine Learning**, as well as **Robotics**.
 - 🧠 Expanding my knowledge in **Computer Vision**, various **AI technologies**, and **Electrical & Mechanical Engineering**.
 - 🗣️ Also learning **Spanish** on Duolingo!
 
